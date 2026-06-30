@@ -1,0 +1,6 @@
+{
+  "name": "The Last-Minute Life Saver",
+  "description": "A productivity app for managing deadlines, automatically breaking tasks into short steps using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
